@@ -15,9 +15,9 @@ The contents of this repository are made available for research use only. No res
 
 You may not modify, distribute, or otherwise make available the contents of this repository for any purpose other than research use without the prior written permission of the authors. If you have any questions about the authorized use of the contents of this repository, please contact the authors at guoyan.lao@sjtu.edu.cn.
 
-If you find this work helpful in your research, please cite the original publication published on Brain Structure and Function using the following BibTex entry.
+If you find this work helpful in your research, please cite the original publication using the following BibTex entry.
 ```bib
-@article{author2022title,
+@article{author2023title,
   title={Title of the Paper},
   author={Last Name, First Name and Last Name, First Name},
   journal={Name of the Journal},
