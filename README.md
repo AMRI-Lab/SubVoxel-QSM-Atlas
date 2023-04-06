@@ -8,4 +8,11 @@ The repository contains the following files and directories:
 
 **/age-specific**: This directory contains the age-specific atlas of QSM, Xpara and Xdia.
 
+## License
+The contents of this repository are made available for research use only. No resources in this repository shall be used for commercial or business activity. By accessing the contents of this repository, you agree to use the resources for research purposes only, and to comply with all applicable laws and regulations.
 
+The contents of this repository are provided "as is" without any warranty, express or implied. The authors of this repository make no representations or warranties regarding the accuracy or completeness of the contents, and will not be liable for any damages arising from their use.
+
+You may not modify, distribute, or otherwise make available the contents of this repository for any purpose other than research use without the prior written permission of the authors.
+
+If you have any questions about the authorized use of the contents of this repository, please contact the authors at [guoyan.lao@sjtu.edu.cn].
