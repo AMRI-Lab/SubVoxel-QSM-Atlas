@@ -6,9 +6,9 @@ This is the official repository for the sub-voxel QSM Atlas. The repository cont
 ## Contents
 The repository contains the following files and directories:
 
-(1) **/longitudinal**: This directory contains the longitudinal atlas of QSM, paramagnetic susceptibility mapping (Xpara) and diamagnetic susceptibility mapping (Xdia).
+**/longitudinal**: This directory contains the longitudinal atlas of QSM, paramagnetic susceptibility mapping (Xpara) and diamagnetic susceptibility mapping (Xdia).
 
-(2) **/age-specific**: This directory contains the age-specific atlas of QSM, Xpara and Xdia.
+**/age-specific**: This directory contains the age-specific atlas of QSM, Xpara and Xdia.
 
 ## License
 The contents of this repository are made available for research use only. No resources in this repository shall be used for commercial or business activity. By accessing the contents of this repository, you agree to use the resources for research purposes only, and to comply with all applicable laws and regulations.
