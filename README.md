@@ -20,7 +20,7 @@ You may not modify, distribute, or otherwise make available the contents of this
 If you have any questions about the authorized use of the contents of this repository, please contact the authors at guoyan.lao@sjtu.edu.cn.
 
 If you find this work helpful in your research, please cite the original publication published on Brain Structure and Function using the following BibTex entry.
-
+```bib
 @article{author2022title,
   title={Title of the Paper},
   author={Last Name, First Name and Last Name, First Name},
@@ -33,3 +33,4 @@ If you find this work helpful in your research, please cite the original publica
   doi={DOI},
   url={URL}
 }
+```
