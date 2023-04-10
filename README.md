@@ -1,4 +1,4 @@
-# SubVoxel-QSM-Atlas
+# Sub-voxel QSM Atlas
 
 This is the official repository for the sub-voxel QSM Atlas. The repository contains sub-voxel quantitative susceptibility mapping (QSM) atlases in MNI space. The longitudinal and age-specific atlases can provide a standard coordinate space and efficient segmentation tool for sub-region delineation. All files are in NIfTI format.
 
